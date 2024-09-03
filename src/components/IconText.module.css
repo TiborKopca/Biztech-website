@@ -1,0 +1,10 @@
+.info__wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;   
+}
+.info__text{
+    color: white;
+    font-size: 1rem;
+    font-weight: 500;
+}
